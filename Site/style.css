@@ -1,0 +1,64 @@
+li{
+    color: blueviolet;
+}
+
+body{
+    font-weight: 400;
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2em;
+    color: darkblue;
+    margin: 0;
+} 
+
+header{
+    background-color: blanchedalmond;
+   
+}
+
+section,footer{
+    margin: 40px;
+}
+
+h1{
+    font-size: 63px;
+    color: f2f2f2;
+    padding: 15px;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    color: blueviolet;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+
+
+table{
+    width: 50%;
+}
+
+table td{
+    color: #000;
+}
+
+table tr:nth-child(even){
+    background-color: #e9e9e9;
+}
+
+table tr:nth-child(odd){
+    background-color: #ededed;
+}
+
+table thead th{
+    background-color: #ff5100;
+    color: white;
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color: #ffc107;
+    text-shadow: 2px 2px 2px black;
+}
